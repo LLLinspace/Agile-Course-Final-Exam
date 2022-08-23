@@ -1,16 +1,11 @@
----
-name: User Story
-about: Basic Template for the task
-title: ''
-labels: ''
-assignees: ''
+As a [role]
+I need [function]
+So that [benefit]
 
----
+Details and Assumptions
+[document what you know]
 
-echo "# Agile-Course-Final-Exam" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/LLLinspace/Agile-Course-Final-Exam.git
-git push -u origin main
+Acceptance Criteria
+Given [some context]
+When [certain action is taken]
+Then [the outcome of action is observed]
